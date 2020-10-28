@@ -20,5 +20,9 @@ I love open source.  I am not a heavy maintainer of any large libraries, but I r
 ---
 
 # Stay awesome!
+[![Vinish's github stats](https://github-readme-stats.vercel.app/api?username=Vinishbhaskar&show_icons=true&theme=radical)](https://github.com/Vinishbhaskar/github-readme-stats)
 
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Vinishbhaskar&repo=github-readme-stats&theme=chartreuse-dark)](https://github.com/Vinishbhaskar/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinishbhaskar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
