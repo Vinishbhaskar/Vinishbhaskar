@@ -13,9 +13,9 @@
 
 <p align="left"> <a href="https://twitter.com/vinish_bhaskar" target="blank"><img src="https://img.shields.io/twitter/follow/vinish_bhaskar?logo=twitter&style=for-the-badge" alt="vinish_bhaskar" /></a> </p>
 
-- 🔭 I’m currently working on **.....**
+- 🔭 I’m currently working on Social Media Clone (MERN)
 
-- 🌱 I’m currently learning **.....**
+- 🌱 I’m currently learning MERN
 
 - 👯 I’m looking to collaborate on **.....**
 
