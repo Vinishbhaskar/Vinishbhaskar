@@ -7,7 +7,7 @@
 </p>
 
 ---
-<p align="justify"> I am Vinish Bhaskar, a recent graduate in Electronics and Communication Engineering with a passion for web development, software development, and IoT development. On this profile, you will find a variety of projects that I have worked on throughout my studies and internships. These projects showcase my technical skills and problem-solving abilities. 
+<p align="justify"> A recent graduate in Electronics and Communication Engineering with a passion for web development, software development, and IoT development. On this profile, you will find a variety of projects that I have worked on throughout my studies and internships. These projects showcase my technical skills and problem-solving abilities. 
   
 
 <br> I am always looking for ways to learn and grow in the field of technology, and I am open to new opportunities and challenges. Feel free to explore my repositories, suggest improvements and leave feedback. </p>
