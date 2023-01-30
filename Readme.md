@@ -5,6 +5,8 @@
 <a href="https://instagram.com/vinish_bhaskar"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/vinishbhaskar/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
+<br>
+<img src="https://gpvc.arturio.dev/vinishbhaskar" alt="Profile views"/>
 
 ---
 <p align="justify"> A recent graduate in Electronics and Communication Engineering with a passion for web development (MERN Stack), software development, and IoT development. On this profile, you will find a variety of projects that I have worked on throughout my studies and internships. These projects showcase my technical skills and problem-solving abilities. 
