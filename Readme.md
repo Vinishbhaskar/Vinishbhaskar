@@ -1,17 +1,19 @@
 <h1 align="center">Hey there 👋, I'm Vinish Bhaskar</h1>
-<h3 align="center">( Python Dev | MERN Stack )</h3>
+<h3 align="center">( Frontend Developer | React JS | MERN Stack )</h3>
 <p align='center'>
+<a href="https://www.linkedin.com/in/vinishbhaskar/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/vinish_bhaskar"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://instagram.com/vinish_bhaskar"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/vinishbhaskar/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+<a href="https://instagram.com/vinish_bhaskar"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>
 </p>
 <br>
 <img src="https://gpvc.arturio.dev/vinishbhaskar" alt="Profile views"/>
 
 ---
-<p align="justify"> A recent graduate in Electronics and Communication Engineering with a passion for web development (MERN Stack), software development, and IoT development. On this profile, you will find a variety of projects that I have worked on throughout my studies and internships. These projects showcase my technical skills and problem-solving abilities. 
+<p align="justify">"Passionate Frontend Developer | Crafting Engaging User Experiences with React JS"
 
-<br> I am always looking for ways to learn and grow in the field of technology, and I am open to new opportunities and challenges. Feel free to explore my repositories, suggest improvements and leave feedback. </p>
+As a passionate frontend developer, I bring a unique perspective to crafting captivating and seamless user experiences using React JS. With a background in Electronics and Communication Engineering (ECE) and specialization in frontend development, I have honed my skills to deliver high-quality, visually appealing, and intuitive interfaces.
+
+Furthermore, I have a strong command of the MERN Stack (MongoDB, Express.js, React JS, and Node.js), enabling me to seamlessly integrate frontend components with backend functionality. Let's collaborate on your projects to create innovative web applications and elevate user engagement through the power of React JS and the MERN Stack.</p>
 
 # Stay awesome!
 
@@ -26,15 +28,15 @@
 
 ### What I do
 
-- 🔭 I’m currently working on Social Media Clone (MERN)
+- 🔭 I’m currently working on [21 Days Frontend Challenge | ReactJs ](https://github.com/Vinishbhaskar/21-Day-Frontend-Challenge)
 
-- 🌱 I’m currently learning MERN Stack
+- 🌱 I’m currently learning React Js | MERN Stack
 
-- 👯 I’m looking to collaborate on **.....**
+<!-- - 👯 I’m looking to collaborate on **.....** -->
 
-- 🤝 I’m looking for help with **.....**
+<!-- - 🤝 I’m looking for help with **.....** -->
 
-- 👨‍💻 All of my projects are available at [...](...)
+- 👨‍💻 All of my projects are available at ([Github Repositories](https://github.com/Vinishbhaskar?tab=repositories))
 
 ### What I use
 
@@ -42,13 +44,13 @@
 
 [<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />]()
 [<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />]()
-[<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />]()
-[<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />]()
-[<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />]()
-[<img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />]()
-[<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />]()
 [<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />]()
 [<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />]()
+[<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />]()
+[<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />]()
+<!-- [<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />]() -->
+[<img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />]()
+[<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />]()
 [<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />]()
 
 #### Backend Development
